@@ -8,7 +8,7 @@
 
 ```js
 # Clone the repo
-git clone https://github.com/airton/frontend-nanodegree-arcade-game.git
+git clone https://github.com/airton/frontend-nanodegree-feedreader.git
 
 # Installs all dependencies and starts dev server on port 8080
 yarn && yarn start // or npm install && npm start
