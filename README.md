@@ -1,4 +1,4 @@
-# RSS Feed Reader Project
+# Feed Reader Testing Project
 
 ## Table of Contents
 
